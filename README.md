@@ -15,6 +15,12 @@ with a simple equation \
 <img src="https://render.githubusercontent.com/render/math?math=x_{(t)} = A \cdot \sin( \omega %2B \phi ) \cdot e ^{ -d \cdot t}">
 
 # C code :
+Worked out together with Mike Field aka "hamster_nz" \
+He's the most helpful \
+Easter egg : I've been mentioned somewhere with another alias \
+Go checkout his project : \
+https://github.com/hamsternz/ProgrammingPosters
+
 [user_based.c](https://github.com/TACHY0NN1X/harmongraphs_simply/blob/main/user_based.c)
 
 **To compile**
