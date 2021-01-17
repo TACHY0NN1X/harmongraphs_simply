@@ -30,19 +30,18 @@ Some images I generated :
 
 # The classics :
 
-<img src="https://github.com/TACHY0NN1X/harmongraphs_simply/001.png">
-<img src="https://github.com/TACHY0NN1X/harmongraphs_simply/002.png">
-<img src="https://github.com/TACHY0NN1X/harmongraphs_simply/003.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/001.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/002.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/003.png">
 
 # Some Random :
 
-<img src="https://github.com/TACHY0NN1X/harmongraphs_simply/016.png">
-<img src="https://github.com/TACHY0NN1X/harmongraphs_simply/017.png">
-<img src="https://github.com/TACHY0NN1X/harmongraphs_simply/018.png">
-<img src="https://github.com/TACHY0NN1X/harmongraphs_simply/019.png">
-<img src="https://github.com/TACHY0NN1X/harmongraphs_simply/032.png">
-<img src="https://github.com/TACHY0NN1X/harmongraphs_simply/033.png">
-
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/016.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/017.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/018.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/019.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/032.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/033.png">
 
 
 
