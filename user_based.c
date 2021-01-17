@@ -20,20 +20,20 @@
 //#Image 4: f1=2 f2=6 f3=1.002 f4=3 d1=0.02 d2=0.0315 d3=0.02 d4=0.02 p1=pi/16 p2=3pi/2 p3=13 pi/16 p4=pi
 
 // Frequencies
-float f1 = 3.001;
-float f2 = 3.0;
-float f3 = 3.0;
-float f4 = 2.0;
+float f1 = 2.0;
+float f2 = 6.0;
+float f3 = 1.002;
+float f4 = 3.0;
 //// Damp Force
-float d1 = 0.004;
-float d2 = 0.0065;
-float d3 = 0.008;
-float d4 = 0.018;
+float d1 = 0.02;
+float d2 = 0.0315;
+float d3 = 0.02;
+float d4 = 0.02;
 //// Phases
-float p1 = 0.0;
-float p2 = 0.0;
-float p3 = 3 * M_PI_2;
-float p4 = 3 * M_PI_2;
+float p1 = 0.625 * M_PI;
+float p2 = 1.5 * M_PI;
+float p3 = 0.8125 * M_PI;
+float p4 = M_PI;
 
 const float amp = HEIGHT/5.0;
 
