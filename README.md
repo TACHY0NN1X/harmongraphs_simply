@@ -44,6 +44,8 @@ Some images I generated :
 
 <img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/001.png">
 <img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/002.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/037.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/038.png">
 <img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/036.png">
 <img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/003.png">
 
