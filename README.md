@@ -7,7 +7,7 @@ is used. It is a single header based library without any dependencies\
 It is awesome, and I can't thank the creators enough for it.
 You need to make a folder/directory named **stb** and in it place : \
 (#) https://github.com/nothings/stb/blob/master/stb_image.h \
-(#) https://github.com/nothings/stb/blob/master/stb_image_write.h \
+(#) https://github.com/nothings/stb/blob/master/stb_image_write.h 
 
 All the code is inspired and based on this [awesome article](https://walkingrandomly.com/?p=151)\
 It talks about how dampened oscillations can generate some pretty cool images\
@@ -16,6 +16,7 @@ with a simple equation \
 
 # C code :
 [user_based.c](https://github.com/TACHY0NN1X/harmongraphs_simply/user_based.c)
+
 **To compile**
 ```
 gcc -o user_based user_based.c -lm
