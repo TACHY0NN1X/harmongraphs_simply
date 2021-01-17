@@ -6,8 +6,8 @@ For image operations [stb image library](https://github.com/nothings/stb)\
 is used. It is a single header based library without any dependencies\
 It is awesome, and I can't thank the creators enough for it.
 You need to make a folder/directory named **stb** and in it place : \
-(#) https://github.com/nothings/stb/blob/master/stb_image.h \
-(#) https://github.com/nothings/stb/blob/master/stb_image_write.h 
+[+]https://github.com/nothings/stb/blob/master/stb_image.h \
+[+]https://github.com/nothings/stb/blob/master/stb_image_write.h 
 
 All the code is inspired and based on this [awesome article](https://walkingrandomly.com/?p=151)\
 It talks about how dampened oscillations can generate some pretty cool images\
@@ -43,8 +43,11 @@ Some images I generated :
 <img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/019.png">
 <img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/032.png">
 <img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/033.png">
-
-
-
-
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/030.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/010.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/012.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/022.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/023.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/014.png">
+<img src="https://raw.githubusercontent.com/TACHY0NN1X/harmongraphs_simply/main/029.png">
 
