@@ -13,7 +13,7 @@ Python scripts require Pillow \
 ```pip install pillow```
 
 C code requires for image operations [stb image library](https://github.com/nothings/stb)\
-is used. It is a single header based library without any dependencies\
+It is a single header based library without any dependencies\
 It is awesome, and I can't thank the creators enough for it.
 You need to make a folder/directory named **stb** and in it place : \
 [+]https://github.com/nothings/stb/blob/master/stb_image.h \
