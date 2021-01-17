@@ -1,3 +1,6 @@
+// Worked out together with Mike Field aka "hamster_nz"
+// Go checkout his project https://github.com/hamsternz/ProgrammingPosters
+
 #include <stdio.h>
 #include <math.h>
 
@@ -37,11 +40,7 @@ const float amp = HEIGHT/5.0;
 unsigned char pixels[HEIGHT][WIDTH];
 uint8_t image[ HEIGHT *  WIDTH * CHANNELS];
 
-int main(int argc, char *argv[]){
-   //if(argc != 2) {
-   //   fprintf(stderr,"Please supply image name\n");
-   //   return 0;
-   //}
+int main(){
 
    char filename[ 32 ];
    printf( " Filename : " );
