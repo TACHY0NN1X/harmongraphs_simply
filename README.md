@@ -5,7 +5,7 @@ All the code is inspired and based on this [awesome article](https://walkingrand
 It talks about how dampened oscillations can generate some pretty cool images\
 with a simple equation 
 
-<img src="https://render.githubusercontent.com/render/math?math=x_{(t)} = A \cdot \sin( \omega %2B \phi ) \cdot e ^{ -d \cdot t}">
+<img src="https://render.githubusercontent.com/render/math?math=x_{(t)} = A \cdot \sin( \omega\cdot t %2B \phi ) \cdot e ^{ -d \cdot t}">
 
 The scripts and C code are not interdependent
 
