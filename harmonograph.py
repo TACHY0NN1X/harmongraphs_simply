@@ -39,12 +39,13 @@ dt = pi / ( height + width )
 pixels = [ [ 0 for i in range( width ) ] for j in range( height )]
 
 count = 0
+amp = height / 5.0
 iterations = 100 * ( width + height )
 
 for iters in range( iterations ) :
 
-    x = 150 * sin( f1 * t + p1 ) * e ** ( -t * d1 ) + 100 * sin( f2 * t + p2 ) * e ** ( -t * d2 )
-    y = 150 * sin( f3 * t + p3 ) * e ** ( -t * d3 ) + 100 * sin( f4 * t + p4 ) * e ** ( -t * d4 )
+    x = amp * sin( f1 * t + p1 ) * e ** ( -t * d1 ) + amp * sin( f2 * t + p2 ) * e ** ( -t * d2 )
+    y = amp * sin( f3 * t + p3 ) * e ** ( -t * d3 ) + amp * sin( f4 * t + p4 ) * e ** ( -t * d4 )
 
     x = int( x ) + ( width // 2 )
     y = int( y ) + ( height // 2 )
