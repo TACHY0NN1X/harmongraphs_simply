@@ -1,4 +1,4 @@
-# harmongraphs_simply
+# harmonographs_simply
 Generating some cool harmongraph images with simple math and physics using simple code
 
 All the code is inspired and based on this [awesome article](https://walkingrandomly.com/?p=151)\
