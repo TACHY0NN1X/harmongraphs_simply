@@ -7,7 +7,7 @@ with a simple equation
 
 <img src="https://render.githubusercontent.com/render/math?math=x_{(t)} = A \cdot \sin( \omega\cdot t %2B \phi ) \cdot e ^{ -d \cdot t}">
 
-The scripts and C code are not interdependent
+**The scripts and C code are not interdependent**
 
 C code requires for image operations [stb image library](https://github.com/nothings/stb)\
 It is a single header based library without any dependencies\
